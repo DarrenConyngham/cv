@@ -36,6 +36,7 @@ a {
 
 .bottom-container {
   background-color: #effcef;
+  font-size: 1rem;
   position: relative;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -46,8 +47,8 @@ a {
 }
 
 .footer-link {
-  font-size: 1.5rem;
-  margin: 14px;
+  font-size: 2rem;
+  margin: 20px;
 }
 
 .machine-learning {
@@ -90,7 +91,7 @@ a {
 .top-container {
   background-color: #effcef;
   position: relative;
-  padding-top: 100px;
+  padding-top: 60px;
   padding-bottom: 50px;
 }
 
