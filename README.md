@@ -1,2 +1,2 @@
 # Personal Website
-This is a personal website meant to serve as an informal CV and to show links to my work.
+This website is a digital CV that provides links to my work and other professional materials.
